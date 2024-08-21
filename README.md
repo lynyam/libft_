@@ -20,3 +20,5 @@ This project provides a deep understanding of memory management in C, strengthen
 Usage:
 
 To use this library in your projects, compile it using make, and include the libft.h header file in your source files. The libft functions are designed to be used interchangeably with those of the standard C library.
+
+![Screenshot from 2024-08-21 20-28-34](https://github.com/user-attachments/assets/4280d21a-085e-4bf3-8713-e582e6de7865)
